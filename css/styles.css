@@ -1,0 +1,12 @@
+.articlestyle {
+  width: 33%;
+}
+
+.articlestyle img {
+  width: inherit;
+}
+
+.logostyles {
+  display: block;
+  margin: 0 auto;
+}
